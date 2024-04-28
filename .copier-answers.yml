@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.2.6
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: wemol@wcomput.com
+author_name: wecomput
+data_format: string
+file_extension: ''
+has_binder: true
+has_settings: false
+kind: frontend
+labextension_name: wemol_jupyterlab_ext
+mimetype: ''
+mimetype_name: ''
+project_short_description: A JupyterLab extension.
+python_name: wemol_jupyterlab_ext
+repository: https://github.com/dsxksss/wemol_jupyterlab_ext.git
+test: true
+viewer_name: ''
+
