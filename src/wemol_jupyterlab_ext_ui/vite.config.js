@@ -21,5 +21,14 @@ export default defineConfig({
         }
       }
     }
+  },
+  server: {
+    proxy: {
+      '/api': {
+        target: 'http://',
+        changeOrigin: true,
+        followRedirects: true,
+      },
+    },
   }
 })

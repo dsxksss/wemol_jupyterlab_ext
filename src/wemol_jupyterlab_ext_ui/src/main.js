@@ -6,7 +6,7 @@ import App from './App.vue'
 createApp(App).mount("#app");
 
 
-// build的使用
+// build使用
 export function createMyApp(options) {
     return createApp(App).mount(options.el);
 }
